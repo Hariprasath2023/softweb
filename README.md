@@ -859,9 +859,8 @@ Publish the website in the given URL.
 
 
 # OUTPUT:
-
-![Alt text](<Screenshot (16).png>)
-![Alt text](<Web capture_19-12-2023_145555_127.0.0.1-1.jpeg>)
+![Alt text](<Screenshot (21).png>)
+![Alt text](<Screenshot (22).png>)
 ![Alt text](<Screenshot (17).png>)
 ![Alt text](<Screenshot (18).png>)
 
